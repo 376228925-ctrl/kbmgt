@@ -48,7 +48,7 @@ export function Slide2() {
           <div className="absolute top-0 right-0 p-6 opacity-10 group-hover:opacity-20 transition-opacity">
             <Scale size={100} className="text-emerald-400" />
           </div>
-          <h3 className="text-2xl font-bold text-white mb-2">囚徒困境与本位主义</h3>
+          <h3 className="text-2xl font-bold text-white mb-2">困境与本位主义</h3>
           <p className="text-emerald-400 font-medium mb-6 text-sm">Prisoner's Dilemma & Departmentalism</p>
           
           <div className="space-y-6 relative z-10">

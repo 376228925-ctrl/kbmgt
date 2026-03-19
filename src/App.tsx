@@ -7,8 +7,9 @@ import { Slide3 } from './components/Slide3';
 import { Slide4 } from './components/Slide4';
 import { Slide5 } from './components/Slide5';
 import { Slide6 } from './components/Slide6';
+import { Slide7 } from './components/Slide7';
 
-const slides = [Slide1, Slide2, Slide3, Slide4, Slide5, Slide6];
+const slides = [Slide1, Slide2, Slide3, Slide4, Slide5, Slide6, Slide7];
 
 export default function App() {
   const [currentSlide, setCurrentSlide] = useState(0);

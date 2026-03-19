@@ -65,14 +65,14 @@ export function Slide3() {
                 <div className="w-8 h-8 rounded-full bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold shrink-0">1</div>
                 <div>
                   <p className="text-white font-bold text-lg">统一信息平台与工具</p>
-                  <p className="text-slate-400 mt-1">使用统一协作工具（飞书/钉钉/Teams），明确信息Owner，避免信息碎片化。</p>
+                  <p className="text-slate-400 mt-1">使用统一协作工具（丰声/丰邮/智能文档/DTI），明确信息Owner，避免信息碎片化。</p>
                 </div>
               </li>
               <li className="flex items-start gap-4">
                 <div className="w-8 h-8 rounded-full bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold shrink-0">2</div>
                 <div>
                   <p className="text-white font-bold text-lg">制定标准化闭环流程</p>
-                  <p className="text-slate-400 mt-1">明确责任人与标准，建立内部 SLA（服务级别协议），把内部部门当“客户”。</p>
+                  <p className="text-slate-400 mt-1">明确责任人与标准，建立有效的协作流程，如：工作线上化管理，把内部部门当“客户”。</p>
                 </div>
               </li>
               <li className="flex items-start gap-4">
